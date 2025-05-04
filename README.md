@@ -1,5 +1,5 @@
 B站首页 [![image](https://github.com/user-attachments/assets/d7850f9e-b91b-4c3f-8ab3-7f3acf2398e6)](https://space.bilibili.com/1512804294)  
-项目地址：[![image](https://github.com/user-attachments/assets/65748602-00a6-4c32-be29-5565a904450f)](https://github.com/zmxmaigan/MDIEditor)
+项目地址：[![image](https://github.com/user-attachments/assets/57a7b7a7-0334-4173-9595-2ba8427980f3)](https://github.com/zmxmaigan/MDIEditor)
 
 ## 项目简介
 

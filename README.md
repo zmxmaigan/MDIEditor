@@ -1,6 +1,11 @@
 B站首页 [![image](https://github.com/user-attachments/assets/d7850f9e-b91b-4c3f-8ab3-7f3acf2398e6)](https://space.bilibili.com/1512804294)  
 项目地址：[![image](https://github.com/user-attachments/assets/57a7b7a7-0334-4173-9595-2ba8427980f3)](https://github.com/zmxmaigan/MDIEditor)
 
+## 目录
+
+- [项目简介](https://zmxmaigan.github.io/MDIEditor/#%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B)
+- [代码结构](https://zmxmaigan.github.io/MDIEditor/#%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84)
+
 ## 项目简介
 
 相信大家在玩♂Dev-C++的时候发现过这个东西：

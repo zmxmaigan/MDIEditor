@@ -8,3 +8,21 @@ B站首页 [![image](https://github.com/user-attachments/assets/d7850f9e-b91b-4c
 ![image](https://github.com/user-attachments/assets/cb041dd9-cafd-4d33-b63b-119a780b3606)
 
 这是一个文本编辑器。但是在现在来看，他肯定不适合作为我们日常来使用。那么我们是否可以改造一下呢？
+
+## 代码结构
+
+```
+F:.
+    main.cpp
+    main.h
+    main.o
+    Makefile.win
+    MDIEditor.dev
+    MDIEditor.layout
+    MDIEditor_private.h
+    MDIEditor_private.rc
+    MDIEditor_private.res
+    resource.rc
+
+没有子文件夹
+```
